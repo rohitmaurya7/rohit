@@ -149,6 +149,14 @@
     width: 100%;
     height: 10vh;
 }
+    .right ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right ul a li{
+    font-size: 12px;
+}
 
 
   }
